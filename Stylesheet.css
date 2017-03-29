@@ -51,6 +51,9 @@ table.One{
 	border-collapse: separate;
     border-spacing:250px; 
 }
+table.two{
+	margin:0px auto;
+}
 ol.One{
 	list-style-type: none
 }
